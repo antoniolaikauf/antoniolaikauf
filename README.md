@@ -4,7 +4,4 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniolaikauf&show_icons=true&theme=radical)
-# most frequently used languagesù
-
-
-[comment]: <> (![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniolaikauf&layout=compact))
+<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniolaikauf&layout=compact) --->
