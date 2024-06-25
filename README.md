@@ -3,7 +3,7 @@
 - 📫 How to reach me you can write to antonio.laikauf00@gmail.com
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniolaikauf&show_icons=true&theme=radical)
+
 # most frequently used languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniolaikauf&layout=compact)
 <!---
