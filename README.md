@@ -7,5 +7,4 @@
 # most frequently used languagesù
 
 
-[comment]: <> (This is a comment, it will not be included)
-<---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniolaikauf&layout=compact) --->
+[comment]: <> (![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniolaikauf&layout=compact))
